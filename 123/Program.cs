@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Module1
+namespace Application
 {
 	class MainClass
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Thomas Makai");
+			Console.WriteLine("Hello World!");
 		}
 	}
 }
