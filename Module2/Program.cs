@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Application
+namespace Module2
 {
 	class MainClass
 	{
